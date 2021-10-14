@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/static/js/main.971c8f72.chunk.js",
-    "main.js.map": "/static/js/main.971c8f72.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ec3c6de7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ec3c6de7.js.map",
-    "static/css/2.a097c93e.chunk.css": "/static/css/2.a097c93e.chunk.css",
-    "static/js/2.1e793147.chunk.js": "/static/js/2.1e793147.chunk.js",
-    "static/js/2.1e793147.chunk.js.map": "/static/js/2.1e793147.chunk.js.map",
-    "static/js/3.01dafcd0.chunk.js": "/static/js/3.01dafcd0.chunk.js",
-    "static/js/3.01dafcd0.chunk.js.map": "/static/js/3.01dafcd0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.a097c93e.chunk.css.map": "/static/css/2.a097c93e.chunk.css.map",
-    "static/css/main.ea1455b2.chunk.css.map": "/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.1e793147.chunk.js.LICENSE.txt": "/static/js/2.1e793147.chunk.js.LICENSE.txt",
-    "static/media/output.98022880.png": "/static/media/output.98022880.png",
-    "static/media/App.scss": "/static/media/roboto-vietnamese-700-normal.3096f18a.woff2"
+    "main.css": "/political-sentiment-dashboard/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/political-sentiment-dashboard/static/js/main.2983407f.chunk.js",
+    "main.js.map": "/political-sentiment-dashboard/static/js/main.2983407f.chunk.js.map",
+    "runtime-main.js": "/political-sentiment-dashboard/static/js/runtime-main.7d87f369.js",
+    "runtime-main.js.map": "/political-sentiment-dashboard/static/js/runtime-main.7d87f369.js.map",
+    "static/css/2.7e912e8e.chunk.css": "/political-sentiment-dashboard/static/css/2.7e912e8e.chunk.css",
+    "static/js/2.6157bb16.chunk.js": "/political-sentiment-dashboard/static/js/2.6157bb16.chunk.js",
+    "static/js/2.6157bb16.chunk.js.map": "/political-sentiment-dashboard/static/js/2.6157bb16.chunk.js.map",
+    "static/js/3.01dafcd0.chunk.js": "/political-sentiment-dashboard/static/js/3.01dafcd0.chunk.js",
+    "static/js/3.01dafcd0.chunk.js.map": "/political-sentiment-dashboard/static/js/3.01dafcd0.chunk.js.map",
+    "index.html": "/political-sentiment-dashboard/index.html",
+    "static/css/2.7e912e8e.chunk.css.map": "/political-sentiment-dashboard/static/css/2.7e912e8e.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/political-sentiment-dashboard/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.6157bb16.chunk.js.LICENSE.txt": "/political-sentiment-dashboard/static/js/2.6157bb16.chunk.js.LICENSE.txt",
+    "static/media/output.98022880.png": "/political-sentiment-dashboard/static/media/output.98022880.png",
+    "static/media/App.scss": "/political-sentiment-dashboard/static/media/roboto-vietnamese-700-normal.3096f18a.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec3c6de7.js",
-    "static/css/2.a097c93e.chunk.css",
-    "static/js/2.1e793147.chunk.js",
+    "static/js/runtime-main.7d87f369.js",
+    "static/css/2.7e912e8e.chunk.css",
+    "static/js/2.6157bb16.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.971c8f72.chunk.js"
+    "static/js/main.2983407f.chunk.js"
   ]
 }
