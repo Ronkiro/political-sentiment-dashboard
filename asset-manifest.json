@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/political-sentiment-dashboard/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/political-sentiment-dashboard/static/js/main.bd3c6be4.chunk.js",
-    "main.js.map": "/political-sentiment-dashboard/static/js/main.bd3c6be4.chunk.js.map",
+    "main.js": "/political-sentiment-dashboard/static/js/main.8815d70d.chunk.js",
+    "main.js.map": "/political-sentiment-dashboard/static/js/main.8815d70d.chunk.js.map",
     "runtime-main.js": "/political-sentiment-dashboard/static/js/runtime-main.3cc046e4.js",
     "runtime-main.js.map": "/political-sentiment-dashboard/static/js/runtime-main.3cc046e4.js.map",
     "static/css/2.7e912e8e.chunk.css": "/political-sentiment-dashboard/static/css/2.7e912e8e.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.7e912e8e.chunk.css",
     "static/js/2.f1b0e357.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.bd3c6be4.chunk.js"
+    "static/js/main.8815d70d.chunk.js"
   ]
 }
